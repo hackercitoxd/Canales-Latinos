@@ -8,14 +8,16 @@ http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/1125753
 http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/1116178
 #EXTINF:-1 tvg-id="Argentina|| A24" tvg-name="MX | Las Estrellas CDMX" tvg-logo="https://i.imgur.com/UEciDmp.png" group-title="MX Prueba",MX | Las Estrellas CDMX
 http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/1165122
-#EXTINF:-1 tvg-id="~ Estrellas SD" tvg-name="MX | Las Estrellas -1 hr" tvg-logo="https://i.imgur.com/UEciDmp.png" group-title="MX Prueba",MX | Las Estrellas -1 hr
-http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/1187547
 #EXTINF:-1 tvg-id="" tvg-name="Lat || Usa Galavision EAST" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/53_es.png" group-title="Latino || USA",Lat || Usa Galavision EAST
 http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/1115262
 #EXTINF:-1 tvg-id="" tvg-name="Lat || Usa Univision EAST" tvg-logo="http://allvectorlogo.com/img/2016/07/univision-east-logo.png" group-title="Latino || USA",Lat || Usa Univision EAST
 http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/1113616
 #EXTINF:-1 tvg-id="" tvg-name="Lat || Usa UniMas EAST" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/6_es.png" group-title="Latino || USA",Lat || Usa UniMas EAST
 http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/1115234
+#EXTINF:-1 tvg-id="Nova ES" tvg-name="||ES3|| NOVA" tvg-logo="http://tv.iptvboss.net/ch_logo/NOVA.png" group-title="ESPAÑA 3",||ES3|| NOVA
+http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/1123714
+#EXTINF:-1 tvg-id="" tvg-name="ES || NOVA" tvg-logo="" group-title="ESPAÑA - SP",ES || NOVA
+http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/1114596
 #EXTINF:-1 tvg-id="Nova ES" tvg-name="ESP : NOVA HD" tvg-logo="https://www.tbs.tech/wp-content/uploads/2020/01/nova_bg.png" group-title="España +",ESP : NOVA HD
 http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/1255197
 #EXTINF:-1 tvg-id="" tvg-name="LAT || A&E" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/ae.png" group-title="Latinos Sur",LAT || A&E
