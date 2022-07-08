@@ -16,10 +16,6 @@ http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/1113616
 http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/1115234
 #EXTINF:-1 tvg-id="Nova ES" tvg-name="||ES3|| NOVA" tvg-logo="http://tv.iptvboss.net/ch_logo/NOVA.png" group-title="ESPAÑA 3",||ES3|| NOVA
 http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/1123714
-#EXTINF:-1 tvg-id="" tvg-name="ES || NOVA" tvg-logo="" group-title="ESPAÑA - SP",ES || NOVA
-http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/1114596
-#EXTINF:-1 tvg-id="Nova ES" tvg-name="ESP : NOVA HD" tvg-logo="https://www.tbs.tech/wp-content/uploads/2020/01/nova_bg.png" group-title="España +",ESP : NOVA HD
-http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/1255197
 #EXTINF:-1 tvg-id="" tvg-name="LAT || A&E" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/ae.png" group-title="Latinos Sur",LAT || A&E
 http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/1165159
 #EXTINF:-1 tvg-id="" tvg-name="LAT || AMC" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/amc.png" group-title="Latinos Sur",LAT || AMC
@@ -62,16 +58,12 @@ http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/1165177
 http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/1165178
 #EXTINF:-1 tvg-id="" tvg-name="LAT || CIUDAD MAGAZINE" tvg-logo="" group-title="Latinos Sur",LAT || CIUDAD MAGAZINE
 http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/1165179
-#EXTINF:-1 tvg-id="" tvg-name="LAT || CN23" tvg-logo="" group-title="Latinos Sur",LAT || CN23
-http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/1165180
 #EXTINF:-1 tvg-id="" tvg-name="LAT || CNN" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/CNN.png" group-title="Latinos Sur",LAT || CNN
 http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/1165181
 #EXTINF:-1 tvg-id="" tvg-name="LAT || CNN EN ESPANIOL" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/CNNespa.png" group-title="Latinos Sur",LAT || CNN EN ESPANIOL
 http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/1165182
 #EXTINF:-1 tvg-id="" tvg-name="LAT || COMEDY" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/comedycentral.png" group-title="Latinos Sur",LAT || COMEDY
 http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/1165183
-#EXTINF:-1 tvg-id="" tvg-name="LAT || CONEXION" tvg-logo="" group-title="Latinos Sur",LAT || CONEXION
-http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/1165184
 #EXTINF:-1 tvg-id="" tvg-name="LAT || CONSTRUIR" tvg-logo="" group-title="Latinos Sur",LAT || CONSTRUIR
 http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/1165185
 #EXTINF:-1 tvg-id="" tvg-name="LAT || CRONICA" tvg-logo="" group-title="Latinos Sur",LAT || CRONICA
@@ -106,12 +98,6 @@ http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/1165200
 http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/1165201
 #EXTINF:-1 tvg-id="" tvg-name="LAT || FOX NEWS" tvg-logo="" group-title="Latinos Sur",LAT || FOX NEWS
 http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/1165203
-#EXTINF:-1 tvg-id="" tvg-name="LAT || Star Comedy" tvg-logo="https://i.imgur.com/9djkXK5.png" group-title="Latinos Sur",LAT || Star Comedy
-http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/1165207
-#EXTINF:-1 tvg-id="" tvg-name="LAT || FOX PREMIUM SERIES" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/FOXSeries.png" group-title="Latinos Sur",LAT || FOX PREMIUM SERIES
-http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/1165211
-#EXTINF:-1 tvg-id="" tvg-name="LAT || FOX PREMIUM SERIES OESTE" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/FOXSeries.png" group-title="Latinos Sur",LAT || FOX PREMIUM SERIES OESTE
-http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/1165212
 #EXTINF:-1 tvg-id="" tvg-name="LAT || FOX SPORTS" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/FOXSports.png" group-title="Latinos Sur",LAT || FOX SPORTS
 http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/1165213
 #EXTINF:-1 tvg-id="" tvg-name="LAT || FOX SPORTS 2" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/FOXSports2.png" group-title="Latinos Sur",LAT || FOX SPORTS 2
@@ -468,3 +454,153 @@ http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/1165405
 http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/1165407
 #EXTINF:-1 tvg-id="" tvg-name="LAT-SD || WARNER" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/warner.png" group-title="Latinos Sur",LAT-SD || WARNER
 http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/1165408
+#EXTINF:-1 tvg-id="" tvg-name="(XXX) BRAZZERS TV Europe Adult" tvg-logo="" group-title="For adults",(XXX) BRAZZERS TV Europe Adult
+http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/14598
+#EXTINF:-1 tvg-id="" tvg-name="(XXX) Penthouse 1 HD Adult" tvg-logo="" group-title="For adults",(XXX) Penthouse 1 HD Adult
+http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/14578
+#EXTINF:-1 tvg-id="" tvg-name="(XXX) Venus TV Adult" tvg-logo="" group-title="For adults",(XXX) Venus TV Adult
+http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/14571
+#EXTINF:-1 tvg-id="" tvg-name="(XXX) ADULT 14 HD ADULTS" tvg-logo="" group-title="For adults",(XXX) ADULT 14 HD ADULTS
+http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/17527
+#EXTINF:-1 tvg-id="" tvg-name="(XXX) PINK O TV" tvg-logo="http://hochu.tv/images/pinkotv.png" group-title="For adults",(XXX) PINK O TV
+http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/17536
+#EXTINF:-1 tvg-id="" tvg-name="(XXX) HUSTLER TV" tvg-logo="http://hochu.tv/images/hustler-tv.png" group-title="For adults",(XXX) HUSTLER TV
+http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/17535
+#EXTINF:-1 tvg-id="" tvg-name="(XXX) ADULT 9 HD ADULTS" tvg-logo="" group-title="For adults",(XXX) ADULT 9 HD ADULTS
+http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/17532
+#EXTINF:-1 tvg-id="" tvg-name="(XXX) BRAZZER TV ADULTS" tvg-logo="" group-title="For adults",(XXX) BRAZZER TV ADULTS
+http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/17579
+#EXTINF:-1 tvg-id="" tvg-name="(XXX) DORCEL TV HD ADULTS" tvg-logo="" group-title="For adults",(XXX) DORCEL TV HD ADULTS
+http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/17582
+#EXTINF:-1 tvg-id="" tvg-name="(XXX) DUSK ADULTS" tvg-logo="" group-title="For adults",(XXX) DUSK ADULTS
+http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/17585
+#EXTINF:-1 tvg-id="" tvg-name="(XXX) EVIL ANGEL ADULTS" tvg-logo="" group-title="For adults",(XXX) EVIL ANGEL ADULTS
+http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/17584
+#EXTINF:-1 tvg-id="" tvg-name="(XXX) HOT ADULTS" tvg-logo="" group-title="For adults",(XXX) HOT ADULTS
+http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/17573
+#EXTINF:-1 tvg-id="" tvg-name="(XXX) HOT CLUB   1 ADULTS" tvg-logo="" group-title="For adults",(XXX) HOT CLUB   1 ADULTS
+http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/17572
+#EXTINF:-1 tvg-id="" tvg-name="(XXX) HOT CLUB  10 ADULTS" tvg-logo="" group-title="For adults",(XXX) HOT CLUB  10 ADULTS
+http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/17563
+#EXTINF:-1 tvg-id="" tvg-name="(XXX) HOT CLUB  11 ADULTS" tvg-logo="" group-title="For adults",(XXX) HOT CLUB  11 ADULTS
+http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/17562
+#EXTINF:-1 tvg-id="" tvg-name="(XXX) HOT CLUB  12 ADULTS" tvg-logo="" group-title="For adults",(XXX) HOT CLUB  12 ADULTS
+http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/17561
+#EXTINF:-1 tvg-id="" tvg-name="(XXX) HOT CLUB  14 ADULTS" tvg-logo="" group-title="For adults",(XXX) HOT CLUB  14 ADULTS
+http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/17559
+#EXTINF:-1 tvg-id="" tvg-name="(XXX) HOT CLUB  15 ADULTS" tvg-logo="" group-title="For adults",(XXX) HOT CLUB  15 ADULTS
+http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/17558
+#EXTINF:-1 tvg-id="" tvg-name="(XXX) HOT CLUB  16 ADULTS" tvg-logo="" group-title="For adults",(XXX) HOT CLUB  16 ADULTS
+http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/17557
+#EXTINF:-1 tvg-id="" tvg-name="(XXX) HOT CLUB  17 ADULTS" tvg-logo="" group-title="For adults",(XXX) HOT CLUB  17 ADULTS
+http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/17556
+#EXTINF:-1 tvg-id="" tvg-name="(XXX) HOT CLUB  2 ADULTS" tvg-logo="" group-title="For adults",(XXX) HOT CLUB  2 ADULTS
+http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/17571
+#EXTINF:-1 tvg-id="" tvg-name="(XXX) HOT CLUB  3 ADULTS" tvg-logo="" group-title="For adults",(XXX) HOT CLUB  3 ADULTS
+http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/17570
+#EXTINF:-1 tvg-id="" tvg-name="(XXX) HOT CLUB  4 ADULTS" tvg-logo="" group-title="For adults",(XXX) HOT CLUB  4 ADULTS
+http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/17569
+#EXTINF:-1 tvg-id="" tvg-name="(XXX) HOT CLUB  5 ADULTS" tvg-logo="" group-title="For adults",(XXX) HOT CLUB  5 ADULTS
+http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/17568
+#EXTINF:-1 tvg-id="" tvg-name="(XXX) HOT CLUB  6 ADULTS" tvg-logo="" group-title="For adults",(XXX) HOT CLUB  6 ADULTS
+http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/17567
+#EXTINF:-1 tvg-id="" tvg-name="(XXX) HOT CLUB  7 ADULTS" tvg-logo="" group-title="For adults",(XXX) HOT CLUB  7 ADULTS
+http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/17566
+#EXTINF:-1 tvg-id="" tvg-name="(XXX) HOT CLUB  8 ADULTS" tvg-logo="" group-title="For adults",(XXX) HOT CLUB  8 ADULTS
+http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/17565
+#EXTINF:-1 tvg-id="" tvg-name="(XXX) HOT CLUB  9 ADULTS" tvg-logo="" group-title="For adults",(XXX) HOT CLUB  9 ADULTS
+http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/17564
+#EXTINF:-1 tvg-id="" tvg-name="(XXX) HOT CLUB 1 ADULTS" tvg-logo="" group-title="For adults",(XXX) HOT CLUB 1 ADULTS
+http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/17543
+#EXTINF:-1 tvg-id="" tvg-name="(XXX) HOT CLUB 2 ADULTS" tvg-logo="" group-title="For adults",(XXX) HOT CLUB 2 ADULTS
+http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/17542
+#EXTINF:-1 tvg-id="" tvg-name="(XXX) HOT CLUB 3 ADULTS" tvg-logo="" group-title="For adults",(XXX) HOT CLUB 3 ADULTS
+http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/17541
+#EXTINF:-1 tvg-id="" tvg-name="(XXX) HUSTLER TV ADULTS" tvg-logo="" group-title="For adults",(XXX) HUSTLER TV ADULTS
+http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/17581
+#EXTINF:-1 tvg-id="" tvg-name="(XXX) LA FRANCE A POIL 1 ADULTS" tvg-logo="" group-title="For adults",(XXX) LA FRANCE A POIL 1 ADULTS
+http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/17555
+#EXTINF:-1 tvg-id="" tvg-name="(XXX) LA FRANCE A POIL 10 ADULTS" tvg-logo="" group-title="For adults",(XXX) LA FRANCE A POIL 10 ADULTS
+http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/17546
+#EXTINF:-1 tvg-id="" tvg-name="(XXX) LA FRANCE A POIL 11 ADULTS" tvg-logo="" group-title="For adults",(XXX) LA FRANCE A POIL 11 ADULTS
+http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/17545
+#EXTINF:-1 tvg-id="" tvg-name="(XXX) LA FRANCE A POIL 12 ADULTS" tvg-logo="" group-title="For adults",(XXX) LA FRANCE A POIL 12 ADULTS
+http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/17544
+#EXTINF:-1 tvg-id="" tvg-name="(XXX) LA FRANCE A POIL 2 ADULTS" tvg-logo="" group-title="For adults",(XXX) LA FRANCE A POIL 2 ADULTS
+http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/17554
+#EXTINF:-1 tvg-id="" tvg-name="(XXX) LA FRANCE A POIL 3 ADULTS" tvg-logo="" group-title="For adults",(XXX) LA FRANCE A POIL 3 ADULTS
+http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/17553
+#EXTINF:-1 tvg-id="" tvg-name="(XXX) LA FRANCE A POIL 4 ADULTS" tvg-logo="" group-title="For adults",(XXX) LA FRANCE A POIL 4 ADULTS
+http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/17552
+#EXTINF:-1 tvg-id="" tvg-name="(XXX) LA FRANCE A POIL 5 ADULTS" tvg-logo="" group-title="For adults",(XXX) LA FRANCE A POIL 5 ADULTS
+http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/17551
+#EXTINF:-1 tvg-id="" tvg-name="(XXX) LA FRANCE A POIL 6 ADULTS" tvg-logo="" group-title="For adults",(XXX) LA FRANCE A POIL 6 ADULTS
+http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/17550
+#EXTINF:-1 tvg-id="" tvg-name="(XXX) LA FRANCE A POIL 7 ADULTS" tvg-logo="" group-title="For adults",(XXX) LA FRANCE A POIL 7 ADULTS
+http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/17549
+#EXTINF:-1 tvg-id="" tvg-name="(XXX) LA FRANCE A POIL 8 ADULTS" tvg-logo="" group-title="For adults",(XXX) LA FRANCE A POIL 8 ADULTS
+http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/17548
+#EXTINF:-1 tvg-id="" tvg-name="(XXX) LA FRANCE A POIL 9 ADULTS" tvg-logo="" group-title="For adults",(XXX) LA FRANCE A POIL 9 ADULTS
+http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/17547
+#EXTINF:-1 tvg-id="" tvg-name="(XXX) PASSIONE ADULTS" tvg-logo="" group-title="For adults",(XXX) PASSIONE ADULTS
+http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/17577
+#EXTINF:-1 tvg-id="" tvg-name="(XXX) PENTHOUSE ADULTS" tvg-logo="" group-title="For adults",(XXX) PENTHOUSE ADULTS
+http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/17575
+#EXTINF:-1 tvg-id="" tvg-name="(XXX) PINK EROTIC 1 ADULTS" tvg-logo="" group-title="For adults",(XXX) PINK EROTIC 1 ADULTS
+http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/17526
+#EXTINF:-1 tvg-id="" tvg-name="(XXX) PINK EROTIC 2 ADULTS" tvg-logo="" group-title="For adults",(XXX) PINK EROTIC 2 ADULTS
+http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/17525
+#EXTINF:-1 tvg-id="" tvg-name="(XXX) PINK EROTIC 3 ADULTS" tvg-logo="" group-title="For adults",(XXX) PINK EROTIC 3 ADULTS
+http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/17524
+#EXTINF:-1 tvg-id="" tvg-name="(XXX) PINK EROTIC 4 ADULTS" tvg-logo="" group-title="For adults",(XXX) PINK EROTIC 4 ADULTS
+http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/17523
+#EXTINF:-1 tvg-id="" tvg-name="(XXX) Reality Kings ADULTS" tvg-logo="" group-title="For adults",(XXX) Reality Kings ADULTS
+http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/17578
+#EXTINF:-1 tvg-id="" tvg-name="(XXX) SCT HD ADULTS" tvg-logo="" group-title="For adults",(XXX) SCT HD ADULTS
+http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/17574
+#EXTINF:-1 tvg-id="" tvg-name="(XXX) Hustler TV" tvg-logo="http://hochu.tv/images/hustler_hd.png" group-title="For adults",(XXX) Hustler TV
+http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/17583
+#EXTINF:-1 tvg-id="" tvg-name="(XXX) VENUS TV ADULTS" tvg-logo="" group-title="For adults",(XXX) VENUS TV ADULTS
+http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/17576
+#EXTINF:-1 tvg-id="" tvg-name="(XXX) ADULT 1 HD ADULTS" tvg-logo="" group-title="For adults",(XXX) ADULT 1 HD ADULTS
+http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/17540
+#EXTINF:-1 tvg-id="" tvg-name="(XXX) ADULT 10 HD ADULTS" tvg-logo="" group-title="For adults",(XXX) ADULT 10 HD ADULTS
+http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/17531
+#EXTINF:-1 tvg-id="" tvg-name="(XXX) ADULT 11 HD ADULTS" tvg-logo="" group-title="For adults",(XXX) ADULT 11 HD ADULTS
+http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/17530
+#EXTINF:-1 tvg-id="" tvg-name="(XXX) ADULT 12 HD ADULTS" tvg-logo="" group-title="For adults",(XXX) ADULT 12 HD ADULTS
+http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/17529
+#EXTINF:-1 tvg-id="" tvg-name="(XXX) ADULT 13 HD ADULTS" tvg-logo="" group-title="For adults",(XXX) ADULT 13 HD ADULTS
+http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/17528
+#EXTINF:-1 tvg-id="" tvg-name="(XXX) ADULT 2 HD ADULTS" tvg-logo="" group-title="For adults",(XXX) ADULT 2 HD ADULTS
+http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/17539
+#EXTINF:-1 tvg-id="" tvg-name="(XXX) Babes TV" tvg-logo="" group-title="For adults",(XXX) Babes TV
+http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/17538
+#EXTINF:-1 tvg-id="" tvg-name="(XXX) ADULT 4 HD ADULTS" tvg-logo="" group-title="For adults",(XXX) ADULT 4 HD ADULTS
+http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/17537
+#EXTINF:-1 tvg-id="" tvg-name="(XXX) ADULT 7 HD ADULTS" tvg-logo="" group-title="For adults",(XXX) ADULT 7 HD ADULTS
+http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/17534
+#EXTINF:-1 tvg-id="" tvg-name="(XXX) ADULT 8 HD ADULTS" tvg-logo="" group-title="For adults",(XXX) ADULT 8 HD ADULTS
+http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/17533
+#EXTINF:-1 tvg-id="" tvg-name="(XXX) CENTO X CENTO ADULTS" tvg-logo="" group-title="For adults",(XXX) CENTO X CENTO ADULTS
+http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/17587
+#EXTINF:-1 tvg-id="" tvg-name="(XXX) PINK O TV ADULTS" tvg-logo="" group-title="For adults",(XXX) PINK O TV ADULTS
+http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/17586
+#EXTINF:-1 tvg-id="" tvg-name="(XXX) PLAY BOY" tvg-logo="" group-title="For adults",(XXX) PLAY BOY
+http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/42540
+#EXTINF:-1 tvg-id="" tvg-name="+18 | Venus" tvg-logo="http://198.255.5.2/picons/venus.png" group-title="For adults",+18 | Venus
+http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/1165138
+#EXTINF:-1 tvg-id="" tvg-name="+18 | Sextreme" tvg-logo="http://198.255.5.2/picons/sextreme.png" group-title="For adults",+18 | Sextreme
+http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/1165137
+#EXTINF:-1 tvg-id="" tvg-name="+18 | Playboy" tvg-logo="http://198.255.5.2/picons/playboy.png" group-title="For adults",+18 | Playboy
+http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/1165136
+#EXTINF:-1 tvg-id="" tvg-name="+18 | Penthouse" tvg-logo="http://198.255.5.2/picons/penthouse.png" group-title="For adults",+18 | Penthouse
+http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/1165135
+#EXTINF:-1 tvg-id="" tvg-name="+18 | Brazzers" tvg-logo="http://198.255.5.2/picons/brazzers.png" group-title="For adults",+18 | Brazzers
+http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/1165134
+#EXTINF:-1 tvg-id="" tvg-name="VENUS" tvg-logo="" group-title="For adults",VENUS
+http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/1201705
+#EXTINF:-1 tvg-id="" tvg-name="PENTHOUSE" tvg-logo="" group-title="For adults",PENTHOUSE
+http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/1201704
+#EXTINF:-1 tvg-id="" tvg-name="BRAZZERS" tvg-logo="" group-title="For adults",BRAZZERS
+http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/1201701
