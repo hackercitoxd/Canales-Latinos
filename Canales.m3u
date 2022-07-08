@@ -1,16 +1,13 @@
-#EXTINF:-1 tvg-id="" tvg-name="▁ ▂ ▄ ▅ ▆☆ CANALES 24/7 ☆▆ ▅ ▄ ▂ ▁" tvg-logo="" group-title="24/7",▁ ▂ ▄ ▅ ▆☆ CANALES 24/7 ☆▆ ▅ ▄ ▂ ▁
+#EXTINF:-1 tvg-id="" tvg-name="▁ ▂ ▄ ▅ ▆☆ Latinos ☆▆ ▅ ▄ ▂ ▁" tvg-logo="" group-title="Latinos Sur",▁ ▂ ▄ ▅ ▆☆ Latinos ☆▆ ▅ ▄ ▂ ▁
 http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/18876
-#EXTINF:-1 tvg-id="" tvg-name="24/7|| EL CHAPULIN COLORADO" tvg-logo="" group-title="24/7",24/7|| EL CHAPULIN COLORADO
-http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/1116178
-#EXTINF:-1 tvg-id="" tvg-name="24/7|| El Chavo Animado" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/El_Chavo_Animado_-_logo.svg/1200px-El_Chavo_Animado_-_logo.svg.png" group-title="24/7",24/7|| El Chavo Animado
-http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/61888
-#EXTINF:-1 tvg-id="" tvg-name="24/7|| El Chavo del 8 #2" tvg-logo="" group-title="24/7",24/7|| El Chavo del 8 #2
-http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/15295
 #EXTINF:-1 tvg-id="" tvg-name="24/7|| El Chavo del Ocho" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjkyZmRlOGUtNDE2Zi00NzJjLTljMDgtYTg4YTYyZDc0ZWMxXkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_UY268_CR9,0,182,268_AL_.jpg" group-title="24/7",24/7|| El Chavo del Ocho
 http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/37464
-
-#EXTINF:-1 tvg-id="" tvg-name="▁ ▂ ▄ ▅ ▆☆ Latinos ☆▆ ▅ ▄ ▂ ▁" tvg-logo="" group-title="Latinos Sur",▁ ▂ ▄ ▅ ▆☆ Latinos ☆▆ ▅ ▄ ▂ ▁
-http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/1165158
+#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP|| El Chavo" tvg-logo="https://dl.dropboxusercontent.com/s/zi73fuz41zp56m8/elchavo.png" group-title="24/7",24/7 VIP|| El Chavo
+http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/1125753
+#EXTINF:-1 tvg-id="" tvg-name="24/7|| EL CHAPULIN COLORADO" tvg-logo="" group-title="24/7",24/7|| EL CHAPULIN COLORADO
+http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/1116178
+#EXTINF:-1 tvg-id="Argentina|| A24" tvg-name="MX | Las Estrellas CDMX" tvg-logo="https://i.imgur.com/UEciDmp.png" group-title="MX Prueba",MX | Las Estrellas CDMX
+http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/1165122
 #EXTINF:-1 tvg-id="~ Estrellas SD" tvg-name="MX | Las Estrellas -1 hr" tvg-logo="https://i.imgur.com/UEciDmp.png" group-title="MX Prueba",MX | Las Estrellas -1 hr
 http://cdiplus.org:8080/11h5tB31F3/eGMnyZv4q4/1187547
 #EXTINF:-1 tvg-id="" tvg-name="Lat || Usa Galavision EAST" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/53_es.png" group-title="Latino || USA",Lat || Usa Galavision EAST
